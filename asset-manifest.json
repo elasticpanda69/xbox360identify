@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/xbox360identify/static/css/main.6f5a532f.css",
+    "main.js": "/xbox360identify/static/js/main.5f63df6d.js",
+    "static/js/453.258e8f41.chunk.js": "/xbox360identify/static/js/453.258e8f41.chunk.js",
+    "static/media/e-xcgpu-hs.png": "/xbox360identify/static/media/e-xcgpu-hs.4e749005ad6d9ebbd173.png",
+    "static/media/hdmi.png": "/xbox360identify/static/media/hdmi.56fac2fe736cbac584b9.png",
+    "static/media/phat.png": "/xbox360identify/static/media/phat.95ef521cdc4b2e759cca.png",
+    "static/media/e.png": "/xbox360identify/static/media/e.25dfe4eb211482b276d4.png",
+    "static/media/e-xcgpu-nhs.png": "/xbox360identify/static/media/e-xcgpu-nhs.c8734dd6a0edd013705b.png",
+    "static/media/slim.png": "/xbox360identify/static/media/slim.3d29902b32ec118bcf65.png",
+    "static/media/phatb.png": "/xbox360identify/static/media/phatb.83c56946a9601386df2e.png",
+    "static/media/xenon165.png": "/xbox360identify/static/media/xenon165.de48cf4fe8286aeff018.png",
+    "static/media/zephyr165.png": "/xbox360identify/static/media/zephyr165.de48cf4fe8286aeff018.png",
+    "static/media/jasper121.png": "/xbox360identify/static/media/jasper121.4b03acc1551844a059ad.png",
+    "static/media/falcon142.png": "/xbox360identify/static/media/falcon142.625726eb01efe828e670.png",
+    "static/media/opus142.png": "/xbox360identify/static/media/opus142.625726eb01efe828e670.png",
+    "static/media/trinity1083.png": "/xbox360identify/static/media/trinity1083.b7db88561b163c53f209.png",
+    "static/media/corona96.png": "/xbox360identify/static/media/corona96.7f45e2547200dbf7ddf8.png",
+    "static/media/av-only.png": "/xbox360identify/static/media/av-only.0db15ef03159607e83ff.png",
+    "index.html": "/xbox360identify/index.html",
+    "main.6f5a532f.css.map": "/xbox360identify/static/css/main.6f5a532f.css.map",
+    "main.5f63df6d.js.map": "/xbox360identify/static/js/main.5f63df6d.js.map",
+    "453.258e8f41.chunk.js.map": "/xbox360identify/static/js/453.258e8f41.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f5a532f.css",
+    "static/js/main.5f63df6d.js"
+  ]
+}
